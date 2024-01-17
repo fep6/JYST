@@ -1,0 +1,209 @@
+2023/12/31 14:27:13.208 Info   Starting JoyToKey v6.9.2
+2023/12/31 14:27:13.208 Info   ExeFile = D:\Documents\JoyToKey\JoyToKey.exe
+2023/12/31 14:27:13.208 Info   Args = D:\Documents\JoyToKey\JoyToKey.exe
+2023/12/31 14:27:13.208 Info   DataDirectory = D:\Documents\JoyToKey\
+2023/12/31 14:27:13.208 Info   Profile = 
+2023/12/31 14:27:13.208 Info   IniFile = D:\Documents\JoyToKey\JoyToKey.ini
+2023/12/31 14:27:13.208 Info   Loading ini file: D:\Documents\JoyToKey\JoyToKey.ini (AppInfo.cpp#259)
+2023/12/31 14:27:13.208 Info   LicenseKey "" is not valid
+2023/12/31 14:27:13.285 Info   Loading XInput1_3.dll (Joystick.cpp#158)
+2023/12/31 14:27:13.286 Info   Initialized XInput (Joystick.cpp#180)
+2023/12/31 14:27:13.333 Info   Initialized DirectInput (Joystick.cpp#193)
+2023/12/31 14:27:13.333 Info   Loading hid.dll (JoystickHID.h#58)
+2023/12/31 14:27:13.334 Info   Initialized HID (Joystick.cpp#202)
+2023/12/31 14:27:13.380 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 14:27:13.382 Info   numAxis = 0
+2023/12/31 14:27:13.382 Info   numPOVs = 0
+2023/12/31 14:27:13.382 Info   numButtons = 7
+2023/12/31 14:27:13.463 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 14:27:13.468 Info   numAxis = 6
+2023/12/31 14:27:13.468 Info   numPOVs = 0
+2023/12/31 14:27:13.468 Info   numButtons = 32
+2023/12/31 14:27:13.468 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 14:27:13.468 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 14:27:13.468 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 14:27:13.468 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 14:27:13.468 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 14:27:13.469 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 14:27:13.493 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 14:27:13.498 Info   numAxis = 6
+2023/12/31 14:27:13.498 Info   numPOVs = 0
+2023/12/31 14:27:13.498 Info   numButtons = 32
+2023/12/31 14:27:13.498 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 14:27:13.498 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 14:27:13.498 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 14:27:13.498 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 14:27:13.498 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 14:27:13.498 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 14:27:13.512 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 14:27:13.518 Info   numAxis = 8
+2023/12/31 14:27:13.518 Info   numPOVs = 0
+2023/12/31 14:27:13.518 Info   numButtons = 36
+2023/12/31 14:27:13.518 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 14:27:13.518 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 14:27:13.518 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 14:27:13.518 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 14:27:13.518 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 14:27:13.519 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 14:27:13.519 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 14:27:13.519 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 14:27:13.850 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 14:27:13.854 Info   numAxis = 0
+2023/12/31 14:27:13.854 Info   numPOVs = 0
+2023/12/31 14:27:13.854 Info   numButtons = 32
+2023/12/31 14:27:13.861 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 14:27:13.867 Info   numAxis = 6
+2023/12/31 14:27:13.867 Info   numPOVs = 0
+2023/12/31 14:27:13.867 Info   numButtons = 32
+2023/12/31 14:27:13.867 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 14:27:13.867 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 14:27:13.867 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 14:27:13.867 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 14:27:13.867 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 14:27:13.867 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 14:27:14.013 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 14:27:14.018 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 14:27:14.018 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 14:27:14.018 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 14:27:14.018 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 14:27:14.018 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 14:27:14.018 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 14:27:14.018 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 14:27:14.018 Info   6 joysticks are detected (Joystick.cpp#215)
+2023/12/31 14:27:14.018 Info   ConfigDir=D:\Documents\JoyToKey\*.cfg (ConfigFileManager.cpp#43)
+2023/12/31 14:27:14.019 Info   --- Loading "AppLink.dat" --- (AppLink\AppLinkManager.cpp#36)
+2023/12/31 14:27:14.019 Info   --- Total 0 record(s) loaded ---
+2023/12/31 14:27:14.045 Info   TimerInit: Initializing timer with x16 speed mode (interval = 1 msec)
+2023/12/31 14:27:14.193 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 14:27:14.195 Info   numAxis = 0
+2023/12/31 14:27:14.195 Info   numPOVs = 0
+2023/12/31 14:27:14.195 Info   numButtons = 7
+2023/12/31 14:27:14.296 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 14:27:14.302 Info   numAxis = 6
+2023/12/31 14:27:14.302 Info   numPOVs = 0
+2023/12/31 14:27:14.302 Info   numButtons = 32
+2023/12/31 14:27:14.302 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 14:27:14.302 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 14:27:14.302 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 14:27:14.302 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 14:27:14.303 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 14:27:14.303 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 14:27:14.331 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 14:27:14.337 Info   numAxis = 6
+2023/12/31 14:27:14.337 Info   numPOVs = 0
+2023/12/31 14:27:14.337 Info   numButtons = 32
+2023/12/31 14:27:14.337 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 14:27:14.337 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 14:27:14.337 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 14:27:14.337 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 14:27:14.337 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 14:27:14.337 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 14:27:14.354 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 14:27:14.362 Info   numAxis = 8
+2023/12/31 14:27:14.362 Info   numPOVs = 0
+2023/12/31 14:27:14.362 Info   numButtons = 36
+2023/12/31 14:27:14.363 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 14:27:14.363 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 14:27:14.363 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 14:27:14.363 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 14:27:14.363 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 14:27:14.363 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 14:27:14.363 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 14:27:14.363 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 14:27:14.707 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 14:27:14.711 Info   numAxis = 0
+2023/12/31 14:27:14.711 Info   numPOVs = 0
+2023/12/31 14:27:14.711 Info   numButtons = 32
+2023/12/31 14:27:14.717 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 14:27:14.722 Info   numAxis = 6
+2023/12/31 14:27:14.722 Info   numPOVs = 0
+2023/12/31 14:27:14.722 Info   numButtons = 32
+2023/12/31 14:27:14.723 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 14:27:14.723 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 14:27:14.723 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 14:27:14.723 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 14:27:14.723 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 14:27:14.723 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 14:27:14.852 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 14:27:14.857 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 14:27:14.857 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 14:27:14.857 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 14:27:14.857 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 14:27:14.857 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 14:27:14.857 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 14:27:14.857 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 14:27:15.269 Info   Save config file "5  -Minage Salvage-" (ConfigFileManager.cpp#425)
+2023/12/31 14:27:21.549 Info   Debug logging is disabled (PreferenceDlg.cpp#113)
+2023/12/31 14:27:21.556 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 14:30:06.878 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:30:07.019 Info   Save config file "4  -Défense-" (ConfigFileManager.cpp#425)
+2023/12/31 14:31:14.785 Info   Save config file "4  -Défense-" (ConfigFileManager.cpp#425)
+2023/12/31 14:31:16.371 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:31:22.416 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:31:22.470 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:31:22.534 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:31:22.596 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:31:22.666 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:31:58.743 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:01.571 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:06.169 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:08.607 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:16.693 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:20.008 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:23.121 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:26.237 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:29.646 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:30.338 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:31.096 Info   About to load config file "1  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 14:32:33.009 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:02.404 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:05.959 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:09.143 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:14.925 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:17.281 Info   About to load config file "1  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:19.683 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:23.173 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:26.333 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:28.599 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:40.192 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:44.993 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:47.894 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:33:50.752 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:37:26.616 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:37:27.590 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:37:28.315 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:39:07.338 Info   About to load config file "1  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 14:39:07.392 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:39:07.496 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:39:07.518 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:39:40.269 Info   About to load config file "1  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 14:44:39.474 Info   Save config file "1  -Radar-" (ConfigFileManager.cpp#425)
+2023/12/31 14:44:43.180 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:44:55.752 Info   About to load config file "1  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 14:48:09.169 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:48:40.538 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:48:53.431 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:49:52.620 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:49:52.633 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:52:51.632 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:05.334 Info   Save config file "5  -Minage Salvage-" (ConfigFileManager.cpp#425)
+2023/12/31 14:53:07.728 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:09.268 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:22.472 Info   Save config file "3  -Attaque-" (ConfigFileManager.cpp#425)
+2023/12/31 14:53:24.157 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:32.744 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:33.343 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:33.992 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:35.561 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:37.384 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:38.057 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:38.768 Info   About to load config file "1  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:41.129 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:42.329 Info   About to load config file "1  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:44.573 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:44.685 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:54.203 Info   About to load config file "4  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:54.231 Info   About to load config file "3  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:54.271 Info   About to load config file "2  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 14:53:54.499 Info   About to load config file "1  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 14:54:00.024 Info   About to load config file "5  -Minage Salvage-" (ConfigFileManager.cpp#109)

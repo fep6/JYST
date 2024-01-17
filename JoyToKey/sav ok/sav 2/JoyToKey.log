@@ -1,0 +1,1150 @@
+2023/12/31 03:57:35.147 Info   Starting JoyToKey v6.9.2
+2023/12/31 03:57:35.148 Info   ExeFile = D:\Documents\JoyToKey\JoyToKey.exe
+2023/12/31 03:57:35.148 Info   Args = D:\Documents\JoyToKey\JoyToKey.exe
+2023/12/31 03:57:35.148 Info   DataDirectory = D:\Documents\JoyToKey\
+2023/12/31 03:57:35.148 Info   Profile = 
+2023/12/31 03:57:35.148 Info   IniFile = D:\Documents\JoyToKey\JoyToKey.ini
+2023/12/31 03:57:35.148 Info   Loading ini file: D:\Documents\JoyToKey\JoyToKey.ini (AppInfo.cpp#259)
+2023/12/31 03:57:35.148 Info   LicenseKey "" is not valid
+2023/12/31 03:57:35.190 Info   Loading XInput1_3.dll (Joystick.cpp#158)
+2023/12/31 03:57:35.191 Info   Initialized XInput (Joystick.cpp#180)
+2023/12/31 03:57:35.217 Info   Initialized DirectInput (Joystick.cpp#193)
+2023/12/31 03:57:35.217 Info   Loading hid.dll (JoystickHID.h#58)
+2023/12/31 03:57:35.218 Info   Initialized HID (Joystick.cpp#202)
+2023/12/31 03:57:35.278 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 03:57:35.281 Info   numAxis = 6
+2023/12/31 03:57:35.281 Info   numPOVs = 0
+2023/12/31 03:57:35.281 Info   numButtons = 32
+2023/12/31 03:57:35.281 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:57:35.281 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:57:35.281 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:57:35.281 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:57:35.281 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:57:35.281 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:57:35.287 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 81973344, {5B67DDC0-C35A-11ED-8003-444553540000}
+2023/12/31 03:57:35.289 Info   numAxis = 0
+2023/12/31 03:57:35.289 Info   numPOVs = 0
+2023/12/31 03:57:35.289 Info   numButtons = 32
+2023/12/31 03:57:35.300 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 03:57:35.302 Info   numAxis = 6
+2023/12/31 03:57:35.302 Info   numPOVs = 0
+2023/12/31 03:57:35.302 Info   numButtons = 32
+2023/12/31 03:57:35.302 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:57:35.303 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:57:35.303 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:57:35.303 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:57:35.303 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:57:35.303 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:57:35.308 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 03:57:35.311 Info   numAxis = 8
+2023/12/31 03:57:35.311 Info   numPOVs = 0
+2023/12/31 03:57:35.311 Info   numButtons = 36
+2023/12/31 03:57:35.311 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 03:57:35.311 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 03:57:35.311 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 03:57:35.311 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 03:57:35.311 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 03:57:35.311 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 03:57:35.311 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 03:57:35.311 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 03:57:35.465 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 81973344, {5B6804D0-C35A-11ED-8004-444553540000}
+2023/12/31 03:57:35.467 Info   numAxis = 6
+2023/12/31 03:57:35.467 Info   numPOVs = 0
+2023/12/31 03:57:35.467 Info   numButtons = 32
+2023/12/31 03:57:35.468 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 03:57:35.468 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 03:57:35.468 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 03:57:35.468 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 03:57:35.468 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 03:57:35.468 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 03:57:35.507 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 81973344, {205E81B0-9CCC-11EE-8002-444553540000}
+2023/12/31 03:57:35.509 Info   numAxis = 0
+2023/12/31 03:57:35.509 Info   numPOVs = 0
+2023/12/31 03:57:35.509 Info   numButtons = 20
+2023/12/31 03:57:35.537 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 03:57:35.542 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 03:57:35.542 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:57:35.542 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 03:57:35.542 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 03:57:35.542 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:57:35.542 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:57:35.542 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 03:57:35.542 Info   6 joysticks are detected (Joystick.cpp#215)
+2023/12/31 03:57:35.542 Info   ConfigDir=D:\Documents\JoyToKey\*.cfg (ConfigFileManager.cpp#43)
+2023/12/31 03:57:35.543 Info   --- Loading "AppLink.dat" --- (AppLink\AppLinkManager.cpp#36)
+2023/12/31 03:57:35.544 Info   --- Total 0 record(s) loaded ---
+2023/12/31 03:57:35.570 Info   TimerInit: Initializing timer with x16 speed mode (interval = 1 msec)
+2023/12/31 03:57:35.748 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 03:57:35.751 Info   numAxis = 6
+2023/12/31 03:57:35.751 Info   numPOVs = 0
+2023/12/31 03:57:35.751 Info   numButtons = 32
+2023/12/31 03:57:35.751 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:57:35.751 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:57:35.751 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:57:35.751 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:57:35.751 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:57:35.751 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:57:35.756 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 81973344, {5B67DDC0-C35A-11ED-8003-444553540000}
+2023/12/31 03:57:35.758 Info   numAxis = 0
+2023/12/31 03:57:35.758 Info   numPOVs = 0
+2023/12/31 03:57:35.758 Info   numButtons = 32
+2023/12/31 03:57:35.771 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 03:57:35.774 Info   numAxis = 6
+2023/12/31 03:57:35.774 Info   numPOVs = 0
+2023/12/31 03:57:35.774 Info   numButtons = 32
+2023/12/31 03:57:35.774 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:57:35.774 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:57:35.774 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:57:35.774 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:57:35.774 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:57:35.774 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:57:35.782 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 03:57:35.785 Info   numAxis = 8
+2023/12/31 03:57:35.785 Info   numPOVs = 0
+2023/12/31 03:57:35.785 Info   numButtons = 36
+2023/12/31 03:57:35.785 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 03:57:35.785 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 03:57:35.785 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 03:57:35.785 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 03:57:35.785 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 03:57:35.785 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 03:57:35.785 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 03:57:35.785 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 03:57:35.947 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 81973344, {5B6804D0-C35A-11ED-8004-444553540000}
+2023/12/31 03:57:35.950 Info   numAxis = 6
+2023/12/31 03:57:35.950 Info   numPOVs = 0
+2023/12/31 03:57:35.950 Info   numButtons = 32
+2023/12/31 03:57:35.950 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 03:57:35.950 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 03:57:35.950 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 03:57:35.950 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 03:57:35.950 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 03:57:35.950 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 03:57:35.988 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 81973344, {205E81B0-9CCC-11EE-8002-444553540000}
+2023/12/31 03:57:35.990 Info   numAxis = 0
+2023/12/31 03:57:35.990 Info   numPOVs = 0
+2023/12/31 03:57:35.990 Info   numButtons = 20
+2023/12/31 03:57:36.018 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 03:57:36.019 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 03:57:36.019 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:57:36.019 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 03:57:36.019 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 03:57:36.019 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:57:36.019 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:57:36.019 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 03:58:00.940 Info   Debug logging is disabled (PreferenceDlg.cpp#113)
+2023/12/31 03:58:00.944 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 03:58:21.368 Info   Save config file "1  -Pilotage de Base-" (ConfigFileManager.cpp#425)
+2023/12/31 03:58:41.935 Error  Failed to obtain the target window handle (Utils\Utils.cpp#350)
+2023/12/31 03:58:41.935 Error  Accès refusé.
+ (Utils\Utils.cpp#351)
+2023/12/31 03:58:42.418 Error  Failed to obtain the target window handle (Utils\Utils.cpp#350)
+2023/12/31 03:58:42.418 Error  Accès refusé.
+ (Utils\Utils.cpp#351)
+2023/12/31 03:58:42.541 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 03:58:42.545 Info   numAxis = 6
+2023/12/31 03:58:42.545 Info   numPOVs = 0
+2023/12/31 03:58:42.545 Info   numButtons = 32
+2023/12/31 03:58:42.545 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:58:42.545 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:58:42.545 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:58:42.545 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:58:42.545 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:58:42.545 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:58:42.563 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 03:58:42.565 Info   numAxis = 6
+2023/12/31 03:58:42.565 Info   numPOVs = 0
+2023/12/31 03:58:42.565 Info   numButtons = 32
+2023/12/31 03:58:42.565 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:58:42.565 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:58:42.565 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:58:42.566 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:58:42.566 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:58:42.566 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:58:42.573 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 03:58:42.576 Info   numAxis = 8
+2023/12/31 03:58:42.576 Info   numPOVs = 0
+2023/12/31 03:58:42.576 Info   numButtons = 36
+2023/12/31 03:58:42.576 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 03:58:42.576 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 03:58:42.576 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 03:58:42.577 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 03:58:42.577 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 03:58:42.577 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 03:58:42.577 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 03:58:42.577 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 03:58:42.790 Info   DetectJoysticks: Detected 3 DI joystick(s)
+2023/12/31 03:58:42.794 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 03:58:42.794 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 03:58:42.794 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 03:58:42.794 Info   3 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 03:58:47.724 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 03:58:47.725 Info   numAxis = 0
+2023/12/31 03:58:47.725 Info   numPOVs = 0
+2023/12/31 03:58:47.725 Info   numButtons = 7
+2023/12/31 03:58:47.772 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 03:58:47.775 Info   numAxis = 6
+2023/12/31 03:58:47.775 Info   numPOVs = 0
+2023/12/31 03:58:47.775 Info   numButtons = 32
+2023/12/31 03:58:47.775 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:58:47.775 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:58:47.775 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:58:47.775 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:58:47.775 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:58:47.775 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:58:47.793 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 03:58:47.795 Info   numAxis = 6
+2023/12/31 03:58:47.795 Info   numPOVs = 0
+2023/12/31 03:58:47.795 Info   numButtons = 32
+2023/12/31 03:58:47.795 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:58:47.795 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:58:47.795 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:58:47.795 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:58:47.795 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:58:47.796 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:58:47.803 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 03:58:47.806 Info   numAxis = 8
+2023/12/31 03:58:47.806 Info   numPOVs = 0
+2023/12/31 03:58:47.806 Info   numButtons = 36
+2023/12/31 03:58:47.806 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 03:58:47.806 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 03:58:47.806 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 03:58:47.807 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 03:58:47.807 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 03:58:47.807 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 03:58:47.807 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 03:58:47.807 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 03:58:47.986 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 03:58:47.988 Info   numAxis = 0
+2023/12/31 03:58:47.988 Info   numPOVs = 0
+2023/12/31 03:58:47.988 Info   numButtons = 32
+2023/12/31 03:58:47.992 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 03:58:47.994 Info   numAxis = 6
+2023/12/31 03:58:47.994 Info   numPOVs = 0
+2023/12/31 03:58:47.994 Info   numButtons = 32
+2023/12/31 03:58:47.995 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 03:58:47.995 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 03:58:47.995 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 03:58:47.995 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 03:58:47.995 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 03:58:47.995 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 03:58:48.068 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 03:58:48.072 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 03:58:48.072 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 03:58:48.072 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 03:58:48.072 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:58:48.072 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:58:48.072 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:58:48.072 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 03:59:46.938 Error  Failed to obtain the target window handle (Utils\Utils.cpp#350)
+2023/12/31 03:59:46.938 Error  Accès refusé.
+ (Utils\Utils.cpp#351)
+2023/12/31 03:59:47.741 Error  Failed to obtain the target window handle (Utils\Utils.cpp#350)
+2023/12/31 03:59:47.741 Error  Accès refusé.
+ (Utils\Utils.cpp#351)
+2023/12/31 03:59:47.862 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 03:59:47.865 Info   numAxis = 6
+2023/12/31 03:59:47.865 Info   numPOVs = 0
+2023/12/31 03:59:47.865 Info   numButtons = 32
+2023/12/31 03:59:47.865 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:59:47.865 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:59:47.865 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:59:47.865 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:59:47.865 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:59:47.865 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:59:47.881 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 03:59:47.884 Info   numAxis = 6
+2023/12/31 03:59:47.884 Info   numPOVs = 0
+2023/12/31 03:59:47.884 Info   numButtons = 32
+2023/12/31 03:59:47.884 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:59:47.884 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:59:47.884 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:59:47.884 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:59:47.884 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:59:47.884 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:59:47.892 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 03:59:47.894 Info   numAxis = 8
+2023/12/31 03:59:47.895 Info   numPOVs = 0
+2023/12/31 03:59:47.895 Info   numButtons = 36
+2023/12/31 03:59:47.895 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 03:59:47.895 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 03:59:47.895 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 03:59:47.895 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 03:59:47.895 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 03:59:47.895 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 03:59:47.895 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 03:59:47.895 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 03:59:48.113 Info   DetectJoysticks: Detected 3 DI joystick(s)
+2023/12/31 03:59:48.117 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 03:59:48.117 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 03:59:48.117 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 03:59:48.117 Info   3 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 03:59:53.037 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 03:59:53.038 Info   numAxis = 0
+2023/12/31 03:59:53.038 Info   numPOVs = 0
+2023/12/31 03:59:53.038 Info   numButtons = 7
+2023/12/31 03:59:53.081 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 03:59:53.083 Info   numAxis = 6
+2023/12/31 03:59:53.083 Info   numPOVs = 0
+2023/12/31 03:59:53.083 Info   numButtons = 32
+2023/12/31 03:59:53.083 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:59:53.083 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:59:53.083 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:59:53.083 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:59:53.083 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:59:53.084 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:59:53.100 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 03:59:53.102 Info   numAxis = 6
+2023/12/31 03:59:53.102 Info   numPOVs = 0
+2023/12/31 03:59:53.102 Info   numButtons = 32
+2023/12/31 03:59:53.102 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 03:59:53.102 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 03:59:53.102 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 03:59:53.102 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 03:59:53.102 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 03:59:53.102 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 03:59:53.110 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 03:59:53.114 Info   numAxis = 8
+2023/12/31 03:59:53.114 Info   numPOVs = 0
+2023/12/31 03:59:53.114 Info   numButtons = 36
+2023/12/31 03:59:53.114 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 03:59:53.114 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 03:59:53.114 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 03:59:53.114 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 03:59:53.114 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 03:59:53.114 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 03:59:53.114 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 03:59:53.114 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 03:59:53.297 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 03:59:53.298 Info   numAxis = 0
+2023/12/31 03:59:53.298 Info   numPOVs = 0
+2023/12/31 03:59:53.298 Info   numButtons = 32
+2023/12/31 03:59:53.301 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 03:59:53.304 Info   numAxis = 6
+2023/12/31 03:59:53.304 Info   numPOVs = 0
+2023/12/31 03:59:53.304 Info   numButtons = 32
+2023/12/31 03:59:53.304 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 03:59:53.304 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 03:59:53.304 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 03:59:53.304 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 03:59:53.304 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 03:59:53.304 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 03:59:53.379 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 03:59:53.380 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 03:59:53.380 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 03:59:53.380 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 03:59:53.380 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:59:53.380 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:59:53.380 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 03:59:53.380 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:01:01.955 Error  Failed to obtain the target window handle (Utils\Utils.cpp#350)
+2023/12/31 04:01:01.955 Error  Accès refusé.
+ (Utils\Utils.cpp#351)
+2023/12/31 04:01:02.061 Error  Failed to obtain the target window handle (Utils\Utils.cpp#350)
+2023/12/31 04:01:02.061 Error  Accès refusé.
+ (Utils\Utils.cpp#351)
+2023/12/31 04:01:02.186 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:01:02.189 Info   numAxis = 6
+2023/12/31 04:01:02.189 Info   numPOVs = 0
+2023/12/31 04:01:02.189 Info   numButtons = 32
+2023/12/31 04:01:02.189 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:01:02.189 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:01:02.189 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:01:02.189 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:01:02.189 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:01:02.189 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:01:02.204 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:01:02.206 Info   numAxis = 6
+2023/12/31 04:01:02.206 Info   numPOVs = 0
+2023/12/31 04:01:02.206 Info   numButtons = 32
+2023/12/31 04:01:02.206 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:01:02.206 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:01:02.206 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:01:02.206 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:01:02.206 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:01:02.206 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:01:02.212 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:01:02.213 Info   numAxis = 8
+2023/12/31 04:01:02.213 Info   numPOVs = 0
+2023/12/31 04:01:02.213 Info   numButtons = 36
+2023/12/31 04:01:02.215 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:01:02.215 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:01:02.215 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:01:02.215 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:01:02.215 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:01:02.215 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:01:02.215 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:01:02.215 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:01:02.423 Info   DetectJoysticks: Detected 3 DI joystick(s)
+2023/12/31 04:01:02.424 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:01:02.424 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:01:02.424 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:01:02.424 Info   3 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:01:07.353 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:01:07.354 Info   numAxis = 0
+2023/12/31 04:01:07.354 Info   numPOVs = 0
+2023/12/31 04:01:07.354 Info   numButtons = 8
+2023/12/31 04:01:07.397 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:01:07.399 Info   numAxis = 6
+2023/12/31 04:01:07.400 Info   numPOVs = 0
+2023/12/31 04:01:07.400 Info   numButtons = 32
+2023/12/31 04:01:07.400 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:01:07.400 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:01:07.400 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:01:07.400 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:01:07.400 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:01:07.400 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:01:07.415 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:01:07.418 Info   numAxis = 6
+2023/12/31 04:01:07.418 Info   numPOVs = 0
+2023/12/31 04:01:07.418 Info   numButtons = 32
+2023/12/31 04:01:07.418 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:01:07.418 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:01:07.418 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:01:07.418 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:01:07.418 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:01:07.418 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:01:07.425 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:01:07.428 Info   numAxis = 8
+2023/12/31 04:01:07.428 Info   numPOVs = 0
+2023/12/31 04:01:07.428 Info   numButtons = 36
+2023/12/31 04:01:07.428 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:01:07.428 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:01:07.428 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:01:07.429 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:01:07.429 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:01:07.429 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:01:07.429 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:01:07.429 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:01:07.610 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:01:07.612 Info   numAxis = 0
+2023/12/31 04:01:07.612 Info   numPOVs = 0
+2023/12/31 04:01:07.612 Info   numButtons = 32
+2023/12/31 04:01:07.615 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:01:07.618 Info   numAxis = 6
+2023/12/31 04:01:07.618 Info   numPOVs = 0
+2023/12/31 04:01:07.618 Info   numButtons = 32
+2023/12/31 04:01:07.618 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:01:07.618 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:01:07.618 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:01:07.618 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:01:07.618 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:01:07.618 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:01:07.693 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:01:07.693 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:01:07.693 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:01:07.693 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:01:07.693 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:01:07.693 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:01:07.693 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:01:07.693 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:01:41.008 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:01:41.010 Info   numAxis = 0
+2023/12/31 04:01:41.010 Info   numPOVs = 0
+2023/12/31 04:01:41.010 Info   numButtons = 8
+2023/12/31 04:01:41.048 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:01:41.051 Info   numAxis = 6
+2023/12/31 04:01:41.051 Info   numPOVs = 0
+2023/12/31 04:01:41.051 Info   numButtons = 32
+2023/12/31 04:01:41.051 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:01:41.051 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:01:41.051 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:01:41.051 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:01:41.051 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:01:41.051 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:01:41.066 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:01:41.069 Info   numAxis = 6
+2023/12/31 04:01:41.069 Info   numPOVs = 0
+2023/12/31 04:01:41.069 Info   numButtons = 32
+2023/12/31 04:01:41.069 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:01:41.069 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:01:41.069 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:01:41.069 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:01:41.069 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:01:41.069 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:01:41.076 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:01:41.078 Info   numAxis = 8
+2023/12/31 04:01:41.079 Info   numPOVs = 0
+2023/12/31 04:01:41.079 Info   numButtons = 36
+2023/12/31 04:01:41.079 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:01:41.079 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:01:41.079 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:01:41.079 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:01:41.079 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:01:41.079 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:01:41.079 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:01:41.079 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:01:41.238 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:01:41.240 Info   numAxis = 0
+2023/12/31 04:01:41.240 Info   numPOVs = 0
+2023/12/31 04:01:41.240 Info   numButtons = 32
+2023/12/31 04:01:41.242 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:01:41.245 Info   numAxis = 6
+2023/12/31 04:01:41.245 Info   numPOVs = 0
+2023/12/31 04:01:41.245 Info   numButtons = 32
+2023/12/31 04:01:41.245 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:01:41.245 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:01:41.245 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:01:41.245 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:01:41.245 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:01:41.245 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:01:41.310 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:01:41.311 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:01:41.311 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:01:41.311 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:01:41.311 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:01:41.311 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:01:41.311 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:01:41.311 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:02:37.258 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:02:37.311 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:02:37.312 Info   numAxis = 0
+2023/12/31 04:02:37.312 Info   numPOVs = 0
+2023/12/31 04:02:37.312 Info   numButtons = 8
+2023/12/31 04:02:37.362 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:02:37.364 Info   numAxis = 6
+2023/12/31 04:02:37.364 Info   numPOVs = 0
+2023/12/31 04:02:37.365 Info   numButtons = 32
+2023/12/31 04:02:37.365 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:02:37.365 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:02:37.365 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:02:37.365 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:02:37.365 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:02:37.365 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:02:37.379 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:02:37.382 Info   numAxis = 6
+2023/12/31 04:02:37.382 Info   numPOVs = 0
+2023/12/31 04:02:37.382 Info   numButtons = 32
+2023/12/31 04:02:37.382 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:02:37.382 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:02:37.382 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:02:37.382 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:02:37.382 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:02:37.382 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:02:37.388 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:02:37.391 Info   numAxis = 8
+2023/12/31 04:02:37.391 Info   numPOVs = 0
+2023/12/31 04:02:37.391 Info   numButtons = 36
+2023/12/31 04:02:37.391 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:02:37.391 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:02:37.391 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:02:37.391 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:02:37.391 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:02:37.391 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:02:37.391 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:02:37.391 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:02:37.562 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:02:37.563 Info   numAxis = 0
+2023/12/31 04:02:37.563 Info   numPOVs = 0
+2023/12/31 04:02:37.563 Info   numButtons = 32
+2023/12/31 04:02:37.566 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:02:37.568 Info   numAxis = 6
+2023/12/31 04:02:37.568 Info   numPOVs = 0
+2023/12/31 04:02:37.568 Info   numButtons = 32
+2023/12/31 04:02:37.568 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:02:37.568 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:02:37.568 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:02:37.568 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:02:37.568 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:02:37.568 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:02:37.637 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:02:37.642 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:02:37.642 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:02:37.642 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:02:37.642 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:02:37.642 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:02:37.642 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:02:37.642 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:02:46.818 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:02:46.819 Info   numAxis = 0
+2023/12/31 04:02:46.819 Info   numPOVs = 0
+2023/12/31 04:02:46.819 Info   numButtons = 8
+2023/12/31 04:02:46.857 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:02:46.860 Info   numAxis = 6
+2023/12/31 04:02:46.860 Info   numPOVs = 0
+2023/12/31 04:02:46.860 Info   numButtons = 32
+2023/12/31 04:02:46.860 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:02:46.860 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:02:46.860 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:02:46.860 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:02:46.860 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:02:46.860 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:02:46.875 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:02:46.878 Info   numAxis = 6
+2023/12/31 04:02:46.878 Info   numPOVs = 0
+2023/12/31 04:02:46.878 Info   numButtons = 32
+2023/12/31 04:02:46.878 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:02:46.878 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:02:46.878 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:02:46.878 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:02:46.878 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:02:46.878 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:02:46.884 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:02:46.887 Info   numAxis = 8
+2023/12/31 04:02:46.887 Info   numPOVs = 0
+2023/12/31 04:02:46.887 Info   numButtons = 36
+2023/12/31 04:02:46.887 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:02:46.887 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:02:46.887 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:02:46.887 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:02:46.887 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:02:46.887 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:02:46.887 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:02:46.887 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:02:47.042 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:02:47.044 Info   numAxis = 0
+2023/12/31 04:02:47.044 Info   numPOVs = 0
+2023/12/31 04:02:47.044 Info   numButtons = 32
+2023/12/31 04:02:47.047 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:02:47.049 Info   numAxis = 6
+2023/12/31 04:02:47.049 Info   numPOVs = 0
+2023/12/31 04:02:47.049 Info   numButtons = 32
+2023/12/31 04:02:47.049 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:02:47.049 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:02:47.049 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:02:47.049 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:02:47.049 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:02:47.049 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:02:47.112 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:02:47.113 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:02:47.113 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:02:47.113 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:02:47.113 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:02:47.113 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:02:47.113 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:02:47.113 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:04:25.487 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:04:25.536 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:04:25.537 Info   numAxis = 0
+2023/12/31 04:04:25.537 Info   numPOVs = 0
+2023/12/31 04:04:25.537 Info   numButtons = 8
+2023/12/31 04:04:25.574 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:04:25.576 Info   numAxis = 6
+2023/12/31 04:04:25.576 Info   numPOVs = 0
+2023/12/31 04:04:25.576 Info   numButtons = 32
+2023/12/31 04:04:25.576 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:04:25.577 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:04:25.577 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:04:25.577 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:04:25.577 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:04:25.577 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:04:25.592 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:04:25.595 Info   numAxis = 6
+2023/12/31 04:04:25.595 Info   numPOVs = 0
+2023/12/31 04:04:25.595 Info   numButtons = 32
+2023/12/31 04:04:25.595 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:04:25.595 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:04:25.595 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:04:25.595 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:04:25.595 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:04:25.595 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:04:25.601 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:04:25.603 Info   numAxis = 8
+2023/12/31 04:04:25.603 Info   numPOVs = 0
+2023/12/31 04:04:25.603 Info   numButtons = 36
+2023/12/31 04:04:25.603 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:04:25.603 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:04:25.603 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:04:25.603 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:04:25.603 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:04:25.603 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:04:25.603 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:04:25.603 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:04:25.762 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:04:25.764 Info   numAxis = 0
+2023/12/31 04:04:25.764 Info   numPOVs = 0
+2023/12/31 04:04:25.764 Info   numButtons = 32
+2023/12/31 04:04:25.767 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:04:25.769 Info   numAxis = 6
+2023/12/31 04:04:25.769 Info   numPOVs = 0
+2023/12/31 04:04:25.769 Info   numButtons = 32
+2023/12/31 04:04:25.769 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:04:25.770 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:04:25.770 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:04:25.770 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:04:25.770 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:04:25.770 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:04:25.833 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:04:25.834 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:04:25.834 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:04:25.834 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:04:25.834 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:04:25.834 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:04:25.834 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:04:25.834 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:05:15.893 Info   Debug logging is disabled (PreferenceDlg.cpp#113)
+2023/12/31 04:05:15.897 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:06:04.906 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:06:04.907 Info   numAxis = 0
+2023/12/31 04:06:04.907 Info   numPOVs = 0
+2023/12/31 04:06:04.907 Info   numButtons = 8
+2023/12/31 04:06:04.944 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:06:04.947 Info   numAxis = 6
+2023/12/31 04:06:04.947 Info   numPOVs = 0
+2023/12/31 04:06:04.947 Info   numButtons = 32
+2023/12/31 04:06:04.947 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:06:04.947 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:06:04.947 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:06:04.947 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:06:04.947 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:06:04.947 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:06:04.963 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:06:04.965 Info   numAxis = 6
+2023/12/31 04:06:04.965 Info   numPOVs = 0
+2023/12/31 04:06:04.965 Info   numButtons = 32
+2023/12/31 04:06:04.965 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:06:04.965 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:06:04.965 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:06:04.965 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:06:04.965 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:06:04.965 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:06:04.972 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:06:04.975 Info   numAxis = 8
+2023/12/31 04:06:04.975 Info   numPOVs = 0
+2023/12/31 04:06:04.975 Info   numButtons = 36
+2023/12/31 04:06:04.975 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:06:04.975 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:06:04.975 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:06:04.975 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:06:04.975 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:06:04.975 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:06:04.975 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:06:04.975 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:06:05.130 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:06:05.132 Info   numAxis = 0
+2023/12/31 04:06:05.132 Info   numPOVs = 0
+2023/12/31 04:06:05.132 Info   numButtons = 32
+2023/12/31 04:06:05.134 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:06:05.136 Info   numAxis = 6
+2023/12/31 04:06:05.136 Info   numPOVs = 0
+2023/12/31 04:06:05.136 Info   numButtons = 32
+2023/12/31 04:06:05.136 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:06:05.136 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:06:05.136 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:06:05.136 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:06:05.136 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:06:05.136 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:06:05.211 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:06:05.212 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:06:05.212 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:06:05.212 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:06:05.212 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:06:05.212 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:06:05.212 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:06:05.212 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:06:47.053 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:06:47.103 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:06:47.104 Info   numAxis = 0
+2023/12/31 04:06:47.104 Info   numPOVs = 0
+2023/12/31 04:06:47.104 Info   numButtons = 8
+2023/12/31 04:06:47.141 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:06:47.143 Info   numAxis = 6
+2023/12/31 04:06:47.143 Info   numPOVs = 0
+2023/12/31 04:06:47.143 Info   numButtons = 32
+2023/12/31 04:06:47.143 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:06:47.143 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:06:47.143 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:06:47.143 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:06:47.143 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:06:47.143 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:06:47.158 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:06:47.160 Info   numAxis = 6
+2023/12/31 04:06:47.160 Info   numPOVs = 0
+2023/12/31 04:06:47.160 Info   numButtons = 32
+2023/12/31 04:06:47.160 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:06:47.160 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:06:47.160 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:06:47.160 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:06:47.160 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:06:47.160 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:06:47.167 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:06:47.170 Info   numAxis = 8
+2023/12/31 04:06:47.170 Info   numPOVs = 0
+2023/12/31 04:06:47.170 Info   numButtons = 36
+2023/12/31 04:06:47.171 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:06:47.171 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:06:47.171 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:06:47.171 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:06:47.171 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:06:47.171 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:06:47.171 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:06:47.171 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:06:47.328 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:06:47.330 Info   numAxis = 0
+2023/12/31 04:06:47.330 Info   numPOVs = 0
+2023/12/31 04:06:47.330 Info   numButtons = 32
+2023/12/31 04:06:47.332 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:06:47.335 Info   numAxis = 6
+2023/12/31 04:06:47.335 Info   numPOVs = 0
+2023/12/31 04:06:47.335 Info   numButtons = 32
+2023/12/31 04:06:47.335 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:06:47.335 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:06:47.335 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:06:47.335 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:06:47.335 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:06:47.335 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:06:47.399 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:06:47.403 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:06:47.403 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:06:47.403 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:06:47.403 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:06:47.403 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:06:47.403 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:06:47.403 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:06:47.693 Info   About to load config file "3  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 04:06:52.576 Info   About to load config file "2  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 04:06:55.086 Info   About to load config file "1  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 04:07:02.108 Info   About to load config file "2  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 04:07:06.386 Info   About to load config file "1  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 04:07:43.258 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:07:43.259 Info   numAxis = 0
+2023/12/31 04:07:43.259 Info   numPOVs = 0
+2023/12/31 04:07:43.259 Info   numButtons = 8
+2023/12/31 04:07:43.296 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:07:43.299 Info   numAxis = 6
+2023/12/31 04:07:43.299 Info   numPOVs = 0
+2023/12/31 04:07:43.299 Info   numButtons = 32
+2023/12/31 04:07:43.299 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:07:43.299 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:07:43.299 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:07:43.299 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:07:43.299 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:07:43.299 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:07:43.313 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:07:43.316 Info   numAxis = 6
+2023/12/31 04:07:43.316 Info   numPOVs = 0
+2023/12/31 04:07:43.316 Info   numButtons = 32
+2023/12/31 04:07:43.316 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:07:43.316 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:07:43.316 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:07:43.316 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:07:43.316 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:07:43.316 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:07:43.323 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:07:43.326 Info   numAxis = 8
+2023/12/31 04:07:43.326 Info   numPOVs = 0
+2023/12/31 04:07:43.326 Info   numButtons = 36
+2023/12/31 04:07:43.326 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:07:43.326 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:07:43.326 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:07:43.326 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:07:43.326 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:07:43.326 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:07:43.326 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:07:43.326 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:07:43.486 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:07:43.487 Info   numAxis = 0
+2023/12/31 04:07:43.487 Info   numPOVs = 0
+2023/12/31 04:07:43.487 Info   numButtons = 32
+2023/12/31 04:07:43.490 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:07:43.493 Info   numAxis = 6
+2023/12/31 04:07:43.493 Info   numPOVs = 0
+2023/12/31 04:07:43.493 Info   numButtons = 32
+2023/12/31 04:07:43.493 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:07:43.493 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:07:43.493 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:07:43.493 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:07:43.493 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:07:43.493 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:07:43.560 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:07:43.560 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:07:43.560 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:07:43.560 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:07:43.560 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:07:43.560 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:07:43.560 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:07:43.560 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:08:23.217 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:08:23.271 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:08:23.272 Info   numAxis = 0
+2023/12/31 04:08:23.272 Info   numPOVs = 0
+2023/12/31 04:08:23.272 Info   numButtons = 8
+2023/12/31 04:08:23.316 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:08:23.318 Info   numAxis = 6
+2023/12/31 04:08:23.318 Info   numPOVs = 0
+2023/12/31 04:08:23.318 Info   numButtons = 32
+2023/12/31 04:08:23.318 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:08:23.318 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:08:23.318 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:08:23.318 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:08:23.318 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:08:23.318 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:08:23.335 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:08:23.338 Info   numAxis = 6
+2023/12/31 04:08:23.338 Info   numPOVs = 0
+2023/12/31 04:08:23.338 Info   numButtons = 32
+2023/12/31 04:08:23.338 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:08:23.338 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:08:23.338 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:08:23.338 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:08:23.338 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:08:23.338 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:08:23.346 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:08:23.349 Info   numAxis = 8
+2023/12/31 04:08:23.349 Info   numPOVs = 0
+2023/12/31 04:08:23.349 Info   numButtons = 36
+2023/12/31 04:08:23.349 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:08:23.349 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:08:23.349 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:08:23.350 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:08:23.350 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:08:23.350 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:08:23.350 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:08:23.350 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:08:23.525 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:08:23.527 Info   numAxis = 0
+2023/12/31 04:08:23.527 Info   numPOVs = 0
+2023/12/31 04:08:23.527 Info   numButtons = 32
+2023/12/31 04:08:23.530 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:08:23.532 Info   numAxis = 6
+2023/12/31 04:08:23.532 Info   numPOVs = 0
+2023/12/31 04:08:23.532 Info   numButtons = 32
+2023/12/31 04:08:23.532 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:08:23.532 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:08:23.532 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:08:23.532 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:08:23.532 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:08:23.532 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:08:23.599 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:08:23.600 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:08:23.600 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:08:23.600 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:08:23.600 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:08:23.600 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:08:23.600 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:08:23.600 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:09:04.043 Info   Debug logging is disabled (PreferenceDlg.cpp#113)
+2023/12/31 04:09:04.046 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:10:40.031 Error  Failed to obtain the target window handle (Utils\Utils.cpp#350)
+2023/12/31 04:10:40.031 Error  Accès refusé.
+ (Utils\Utils.cpp#351)
+2023/12/31 04:10:40.040 Error  Failed to obtain the target window handle (Utils\Utils.cpp#350)
+2023/12/31 04:10:40.040 Error  Accès refusé.
+ (Utils\Utils.cpp#351)
+2023/12/31 04:10:40.165 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:10:40.168 Info   numAxis = 6
+2023/12/31 04:10:40.168 Info   numPOVs = 0
+2023/12/31 04:10:40.168 Info   numButtons = 32
+2023/12/31 04:10:40.168 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:10:40.168 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:10:40.168 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:10:40.168 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:10:40.168 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:10:40.168 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:10:40.187 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:10:40.190 Info   numAxis = 6
+2023/12/31 04:10:40.190 Info   numPOVs = 0
+2023/12/31 04:10:40.190 Info   numButtons = 32
+2023/12/31 04:10:40.191 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:10:40.191 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:10:40.191 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:10:40.191 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:10:40.191 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:10:40.191 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:10:40.197 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:10:40.201 Info   numAxis = 8
+2023/12/31 04:10:40.201 Info   numPOVs = 0
+2023/12/31 04:10:40.201 Info   numButtons = 36
+2023/12/31 04:10:40.201 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:10:40.201 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:10:40.201 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:10:40.201 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:10:40.201 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:10:40.201 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:10:40.201 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:10:40.201 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:10:40.421 Info   DetectJoysticks: Detected 3 DI joystick(s)
+2023/12/31 04:10:40.424 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:10:40.424 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:10:40.424 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:10:40.424 Info   3 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:10:45.334 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:10:45.335 Info   numAxis = 0
+2023/12/31 04:10:45.335 Info   numPOVs = 0
+2023/12/31 04:10:45.335 Info   numButtons = 10
+2023/12/31 04:10:45.378 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:10:45.381 Info   numAxis = 6
+2023/12/31 04:10:45.381 Info   numPOVs = 0
+2023/12/31 04:10:45.381 Info   numButtons = 32
+2023/12/31 04:10:45.381 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:10:45.381 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:10:45.381 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:10:45.381 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:10:45.381 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:10:45.381 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:10:45.397 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:10:45.400 Info   numAxis = 6
+2023/12/31 04:10:45.400 Info   numPOVs = 0
+2023/12/31 04:10:45.400 Info   numButtons = 32
+2023/12/31 04:10:45.400 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:10:45.400 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:10:45.400 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:10:45.400 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:10:45.400 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:10:45.400 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:10:45.407 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:10:45.411 Info   numAxis = 8
+2023/12/31 04:10:45.411 Info   numPOVs = 0
+2023/12/31 04:10:45.411 Info   numButtons = 36
+2023/12/31 04:10:45.411 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:10:45.411 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:10:45.411 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:10:45.411 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:10:45.411 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:10:45.411 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:10:45.411 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:10:45.412 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:10:45.596 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:10:45.600 Info   numAxis = 0
+2023/12/31 04:10:45.600 Info   numPOVs = 0
+2023/12/31 04:10:45.600 Info   numButtons = 32
+2023/12/31 04:10:45.602 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:10:45.605 Info   numAxis = 6
+2023/12/31 04:10:45.605 Info   numPOVs = 0
+2023/12/31 04:10:45.605 Info   numButtons = 32
+2023/12/31 04:10:45.605 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:10:45.605 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:10:45.605 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:10:45.605 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:10:45.605 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:10:45.606 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:10:45.682 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:10:45.686 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:10:45.686 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:10:45.686 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:10:45.686 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:10:45.686 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:10:45.686 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:10:45.686 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:11:07.245 Info   Debug logging is disabled (PreferenceDlg.cpp#113)
+2023/12/31 04:11:07.250 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:11:47.127 Info   Debug logging is disabled (PreferenceDlg.cpp#113)
+2023/12/31 04:11:47.131 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:13:04.976 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:13:04.977 Info   numAxis = 0
+2023/12/31 04:13:04.977 Info   numPOVs = 0
+2023/12/31 04:13:04.977 Info   numButtons = 10
+2023/12/31 04:13:05.014 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:13:05.017 Info   numAxis = 6
+2023/12/31 04:13:05.017 Info   numPOVs = 0
+2023/12/31 04:13:05.017 Info   numButtons = 32
+2023/12/31 04:13:05.017 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:13:05.017 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:13:05.017 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:13:05.017 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:13:05.017 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:13:05.017 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:13:05.031 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:13:05.034 Info   numAxis = 6
+2023/12/31 04:13:05.034 Info   numPOVs = 0
+2023/12/31 04:13:05.034 Info   numButtons = 32
+2023/12/31 04:13:05.034 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:13:05.034 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:13:05.034 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:13:05.034 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:13:05.034 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:13:05.034 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:13:05.040 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:13:05.042 Info   numAxis = 8
+2023/12/31 04:13:05.042 Info   numPOVs = 0
+2023/12/31 04:13:05.042 Info   numButtons = 36
+2023/12/31 04:13:05.042 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:13:05.042 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:13:05.042 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:13:05.042 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:13:05.043 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:13:05.043 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:13:05.043 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:13:05.043 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:13:05.202 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:13:05.204 Info   numAxis = 0
+2023/12/31 04:13:05.204 Info   numPOVs = 0
+2023/12/31 04:13:05.204 Info   numButtons = 32
+2023/12/31 04:13:05.207 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:13:05.209 Info   numAxis = 6
+2023/12/31 04:13:05.209 Info   numPOVs = 0
+2023/12/31 04:13:05.209 Info   numButtons = 32
+2023/12/31 04:13:05.209 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:13:05.209 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:13:05.209 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:13:05.209 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:13:05.209 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:13:05.209 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:13:05.271 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:13:05.275 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:13:05.275 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:13:05.275 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:13:05.275 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:13:05.275 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:13:05.275 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:13:05.275 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:13:32.698 Info   About to load config file "2  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 04:13:33.778 Info   About to load config file "1  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 04:13:53.900 Info   About to load config file "2  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 04:13:54.955 Info   About to load config file "3  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 04:13:56.739 Info   About to load config file "4  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 04:13:58.916 Info   About to load config file "5  -Radar-" (ConfigFileManager.cpp#109)
+2023/12/31 04:14:37.216 Info   Saving .ini file... (AppInfo.cpp#394)
+2023/12/31 04:14:37.268 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E2963A0-C498-11ED-8001-444553540000}
+2023/12/31 04:14:37.270 Info   numAxis = 0
+2023/12/31 04:14:37.270 Info   numPOVs = 0
+2023/12/31 04:14:37.270 Info   numButtons = 10
+2023/12/31 04:14:37.306 Info   Detected a DI joystick: RIGHT VPC Stick MT-50CM3, RIGHT VPC Stick MT-50CM3, 43903344, {5D9FC1D0-C359-11ED-8001-444553540000}
+2023/12/31 04:14:37.309 Info   numAxis = 6
+2023/12/31 04:14:37.309 Info   numPOVs = 0
+2023/12/31 04:14:37.309 Info   numButtons = 32
+2023/12/31 04:14:37.309 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:14:37.309 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:14:37.309 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:14:37.309 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:14:37.309 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:14:37.309 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:14:37.325 Info   Detected a DI joystick: LEFT VPC Stick MT-50CM3, LEFT VPC Stick MT-50CM3, 838F3344, {61853630-C355-11ED-8001-444553540000}
+2023/12/31 04:14:37.327 Info   numAxis = 6
+2023/12/31 04:14:37.327 Info   numPOVs = 0
+2023/12/31 04:14:37.327 Info   numButtons = 32
+2023/12/31 04:14:37.327 Info   EnumDeviceObject: Axis offset=0 type=2 name=Axe X
+2023/12/31 04:14:37.327 Info   EnumDeviceObject: Axis offset=4 type=102 name=Axe Y
+2023/12/31 04:14:37.328 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2023/12/31 04:14:37.328 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2023/12/31 04:14:37.328 Info   EnumDeviceObject: Axis offset=16 type=202 name=Curseur
+2023/12/31 04:14:37.328 Info   EnumDeviceObject: Axis offset=20 type=602 name=Axe Z
+2023/12/31 04:14:37.334 Info   Detected a DI joystick: Saitek Pro Flight X-56 Rhino Throttle, Saitek Pro Flight X-56 Rhino Throttle, A2210738, {9668D4B0-8C23-11ED-8001-444553540000}
+2023/12/31 04:14:37.337 Info   numAxis = 8
+2023/12/31 04:14:37.337 Info   numPOVs = 0
+2023/12/31 04:14:37.337 Info   numButtons = 36
+2023/12/31 04:14:37.337 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2023/12/31 04:14:37.337 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2023/12/31 04:14:37.337 Info   EnumDeviceObject: Axis offset=8 type=202 name=Cadran
+2023/12/31 04:14:37.337 Info   EnumDeviceObject: Axis offset=12 type=602 name=Curseur
+2023/12/31 04:14:37.337 Info   EnumDeviceObject: Axis offset=16 type=402 name=Rotation Y
+2023/12/31 04:14:37.337 Info   EnumDeviceObject: Axis offset=20 type=502 name=Rotation Z
+2023/12/31 04:14:37.337 Info   EnumDeviceObject: Axis offset=24 type=302 name=Rotation X
+2023/12/31 04:14:37.337 Info   EnumDeviceObject: Axis offset=28 type=702 name=Axe Z
+2023/12/31 04:14:37.498 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0E29D8D0-C498-11ED-8002-444553540000}
+2023/12/31 04:14:37.500 Info   numAxis = 0
+2023/12/31 04:14:37.500 Info   numPOVs = 0
+2023/12/31 04:14:37.500 Info   numButtons = 32
+2023/12/31 04:14:37.503 Info   Detected a DI joystick: LEFT VPC Throttle MT-50CM3, LEFT VPC Throttle MT-50CM3, 01973344, {0EAF6CF0-9CB7-11EE-8001-444553540000}
+2023/12/31 04:14:37.506 Info   numAxis = 6
+2023/12/31 04:14:37.506 Info   numPOVs = 0
+2023/12/31 04:14:37.506 Info   numButtons = 32
+2023/12/31 04:14:37.506 Info   EnumDeviceObject: Axis offset=0 type=302 name=Rotation X
+2023/12/31 04:14:37.506 Info   EnumDeviceObject: Axis offset=4 type=402 name=Rotation Y
+2023/12/31 04:14:37.506 Info   EnumDeviceObject: Axis offset=8 type=502 name=Rotation Z
+2023/12/31 04:14:37.506 Info   EnumDeviceObject: Axis offset=12 type=2 name=Axe X
+2023/12/31 04:14:37.506 Info   EnumDeviceObject: Axis offset=16 type=102 name=Axe Y
+2023/12/31 04:14:37.506 Info   EnumDeviceObject: Axis offset=20 type=202 name=Axe Z
+2023/12/31 04:14:37.574 Info   DetectJoysticks: Detected 6 DI joystick(s)
+2023/12/31 04:14:37.574 Info   Joystick #3: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:14:37.574 Info   Joystick #1: RIGHT VPC Stick MT-50CM3
+2023/12/31 04:14:37.574 Info   Joystick #2: LEFT VPC Stick MT-50CM3
+2023/12/31 04:14:37.574 Info   Joystick #6: Saitek Pro Flight X-56 Rhino Throttle
+2023/12/31 04:14:37.574 Info   Joystick #4: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:14:37.574 Info   Joystick #5: LEFT VPC Throttle MT-50CM3
+2023/12/31 04:14:37.574 Info   6 joystick(s) are detected (Joystick.cpp#283)
+2023/12/31 04:15:03.048 Info   About to load config file "4  -Minage Salvage-" (ConfigFileManager.cpp#109)
+2023/12/31 04:15:03.154 Info   About to load config file "3  -Défense-" (ConfigFileManager.cpp#109)
+2023/12/31 04:15:03.254 Info   About to load config file "2  -Attaque-" (ConfigFileManager.cpp#109)
+2023/12/31 04:15:03.396 Info   About to load config file "1  -Pilotage de Base-" (ConfigFileManager.cpp#109)
+2023/12/31 04:15:45.706 Info   Application terminated (Utils\LogFile.cpp#20)
